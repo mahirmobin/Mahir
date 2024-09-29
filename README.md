@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @meltedpeanut
-- 👀 I’m interested in Creating and Art
-- 🌱 I’m currently learning Computer Science and Design 
+- 👋 Hi, I’m Mohammed Mahir Mobin 
+- 👀 I’m interested in programming and Art
+- 🌱 I’m currently studying Btech in Computer Science and Design 
 - 📫 How to reach me : mahirmobin@gmail.com
   
 <!---
